@@ -3,9 +3,9 @@ const personne = {
   age: 30
 };
 
-function afficherInfosPersonne(personne) {
-  console.log("Nom : " + personne.nom);
-  console.log("Âge : " + personne.age);
+function displayPersonInfo(personne) {
+  console.log("nom : " + personne.nom +"\nAge : " + personne.age);
+  
 }
 
-afficherInfosPersonne(personne);
+displayPersonInfo(personne);

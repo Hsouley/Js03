@@ -9,4 +9,4 @@ const codeloccol = {
 codeloccol.name = 'Happy Coder';
 
 // Afficher la nouvelle valeur de la propriété `name`
-console.log(codeloccol.name);
+console.log(codeloccol);
